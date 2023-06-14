@@ -40,7 +40,7 @@ J'ai manqué de temps pendant ce CTF et j'ai concentré la plupart de mes effort
  
 ## ☎️ [Divers](Misc) - *Miscellaneous*
 - [X] [Intro - Bienvenue ](./Misc/bienvenue/) [100 points]
-- [X] [Intro - Example de connexion distante ](./Misc/connection_distante/) [100 points]
+- [X] [Intro - Example de connexion distante ](./Misc/connexion_distante/) [100 points]
 - [X] [Intro - Discord ](./Misc/discord/) [100 points]
 - [X] [Intro - À vos plumes ](./Misc/a_vos_plumes/) [10 points]
 - [X] [Désirée Dubois ](./Misc/desiree_dubois/) [958 points]
@@ -56,7 +56,7 @@ J'ai manqué de temps pendant ce CTF et j'ai concentré la plupart de mes effort
 ## 📡 [Radio-Fréquences](RadioFrequencies) - *Radio Frequencies*
 - [X] [Intro - NAVI ](./RadioFrequencies/navi/) [100 points]
 - [X] [Avez-vous vu la cascade des hérissons ](./RadioFrequencies/herissons/) [872 points]
-- [X] [Le plombier](./RadioFrequencies/plombier/) [992 points]
+- [X] [Le plombier du Câble](./RadioFrequencies/plombier/) [992 points]
 - [X] [Ballistic missile submarine](./RadioFrequencies/ballistic_missile_submarines/) [972 points]
 
 ## 🌎 [Renseignement en sources ouvertes](OSINT) - *Open Source Intelligence* (OSINT)

@@ -1,0 +1,7 @@
+{
+  "id": "e02540075a9fdf9740ac036f0b59e6ac78224f1e7a19f41d53141829fef6283f",
+  "name": "k8s_bash_bash_default_bd0d77b9-376e-4646-9b4a-d49e0a8efa5d_0",
+  "rootfsImageName": "docker.io/library/debian:latest",
+  "runtime": "runc",
+  "createdTime": "2023-05-12T09:01:05.133362061Z"
+}

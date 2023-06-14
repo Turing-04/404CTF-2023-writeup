@@ -1,0 +1,32 @@
+[
+  {
+    "source": "/var/run/containers/storage/overlay-containers/359bc56ab1fa91cc88202a23c02bc946dceeaf1941cab9d5870401ed721ca59d/userdata/resolv.conf",
+    "destination": "/etc/resolv.conf",
+    "file_type": "file",
+    "permissions": 420
+  },
+  {
+    "source": "/var/run/containers/storage/overlay-containers/359bc56ab1fa91cc88202a23c02bc946dceeaf1941cab9d5870401ed721ca59d/userdata/hostname",
+    "destination": "/etc/hostname",
+    "file_type": "file",
+    "permissions": 420
+  },
+  {
+    "source": "/var/lib/kubelet/pods/bd0d77b9-376e-4646-9b4a-d49e0a8efa5d/etc-hosts",
+    "destination": "/etc/hosts",
+    "file_type": "file",
+    "permissions": 420
+  },
+  {
+    "source": "/var/lib/kubelet/pods/bd0d77b9-376e-4646-9b4a-d49e0a8efa5d/containers/bash/d4c5d910",
+    "destination": "/dev/termination-log",
+    "file_type": "file",
+    "permissions": 438
+  },
+  {
+    "source": "/var/lib/kubelet/pods/bd0d77b9-376e-4646-9b4a-d49e0a8efa5d/volumes/kubernetes.io~projected/kube-api-access-lxhmd",
+    "destination": "/var/run/secrets/kubernetes.io/serviceaccount",
+    "file_type": "directory",
+    "permissions": 511
+  }
+]
