@@ -21,6 +21,7 @@ J'ai manqué de temps pendant ce CTF et j'ai concentré la plupart de mes effort
 
 
 # Challenges résolus
+Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié. 
 
 ##  🔎 [Analyse forensique](Forensics) - *Forensic analysis*
 
@@ -50,13 +51,13 @@ J'ai manqué de temps pendant ce CTF et j'ai concentré la plupart de mes effort
 
 
 ## 🖥️ [Programmation](Prog) - *Programming*
-- [X] [Intro - Innondation ](./Prog/innondation/) [100 points]
+- [X] [Intro - Inondation ](./Prog/inondation/) [100 points]
 - [X] [Des mots, des mots, des mots ](./Prog/des_mots/) [731 points]
 
 ## 📡 [Radio-Fréquences](RadioFrequencies) - *Radio Frequencies*
 - [X] [Intro - NAVI ](./RadioFrequencies/navi/) [100 points]
 - [X] [Avez-vous vu la cascade des hérissons ](./RadioFrequencies/herissons/) [872 points]
-- [X] [Le plombier du Câble](./RadioFrequencies/plombier/) [992 points]
+- [X] [Le plombier du Câble](./RadioFrequencies/plombier/) [992 points] ⭐️
 - [X] [Ballistic missile submarine](./RadioFrequencies/ballistic_missile_submarines/) [972 points]
 
 ## 🌎 [Renseignement en sources ouvertes](OSINT) - *Open Source Intelligence* (OSINT)
