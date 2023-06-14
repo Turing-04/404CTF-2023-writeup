@@ -42,7 +42,7 @@ Il ne reste plus qu'à scanner ce QR code pour obtenir notre flag.
 
 Incroyable n'est ce pas? On se croirait dans un film d'espionnage américain. Je me suis dit que c'était un peu trop beau pour être vrai tout ça alors j'ai sorti mon HackRF pour voir si ça fonctionne vraiment, et à ma grand suprise oui !
 
-Après pas mal de galère et de bidouillages (en particulier pour trouver la bonne fréquence):
+Après pas mal de galères et de bidouillages (en particulier pour trouver la bonne fréquence):
 
 <img src="Turing-04_404CTF_Tempest_SDR.png" width=500>
 

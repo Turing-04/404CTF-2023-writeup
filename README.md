@@ -21,15 +21,15 @@ J'ai manqué de temps pendant ce CTF et j'ai concentré la plupart de mes effort
 
 
 # Challenges résolus
-Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié. 
+Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU les plus soignés. 
 
 ##  🔎 [Analyse forensique](Forensics) - *Forensic analysis*
 
 - [X] [Intro - pêche au livre](./Forensics/peche_au_livre/) [100 points]
-- [X] [Le mystère du roman d'amour](./Forensics/le_mystere_du_roman_d_amour/) [200 points]
-- [X] [Les mystères du cluster de la comtesse de Ségur](./Forensics/les_mysteres_du_cluster_de_la_comtesse_de_segur/) [385 points]
-- [X] [Lettres volatiles](./Forensics/lettres_volatiles/) [757 points]
-- [X] [Note de bas de page](./Forensics/note_de_bas_de_page/) [954 points]
+- [ ] [Le mystère du roman d'amour](./Forensics/le_mystere_du_roman_d_amour/) [200 points]
+- [ ] [Les mystères du cluster de la comtesse de Ségur](./Forensics/les_mysteres_du_cluster_de_la_comtesse_de_segur/) [385 points]
+- [ ] [Lettres volatiles](./Forensics/lettres_volatiles/) [757 points]
+- [ ] [Note de bas de page](./Forensics/note_de_bas_de_page/) [954 points] ⭐️
   
 
 
@@ -44,7 +44,7 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié.
 - [X] [Intro - Example de connexion distante ](./Misc/connexion_distante/) [100 points]
 - [X] [Intro - Discord ](./Misc/discord/) [100 points]
 - [X] [Intro - À vos plumes ](./Misc/a_vos_plumes/) [10 points]
-- [X] [Désirée Dubois ](./Misc/desiree_dubois/) [958 points]
+- [X] [Désirée Dubois ](./Misc/desiree_dubois/) [958 points] ⭐️
 
 
 
@@ -68,17 +68,17 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié.
 - [X] [La Quête du sens [2/3]](./OSINT/quete_du_sens_2/) [977 points]
 - [X] [La Quête du sens [3/3]](./OSINT/quete_du_sens_3/) [985 points]
 - [X] [Les OSINTables [1/3]](./OSINT/osintables_1/) [818 points]
-- [X] [Les OSINTables [2/3]](./OSINT/osintables_2/) [975 points]
+- [X] [Les OSINTables [2/3]](./OSINT/osintables_2/) [975 points] ⭐️
 - [X] [L'âme d'un poète et le coeur d'une femme [1/4]](./OSINT/ame_poete_coeur_dune_femme_1/) [485 points]
 - [X] [L'âme d'un poète et le coeur d'une femme [2/4]](./OSINT/ame_poete_coeur_dune_femme_2/) [673 points]
 - [X] [L'âme d'un poète et le coeur d'une femme [3/4]](./OSINT/ame_poete_coeur_dune_femme_3/) [903 points]
-- [X] [L'âme d'un poète et le coeur d'une femme [4/4]](./OSINT/ame_poete_coeur_dune_femme_3/) [919 points]
-- [X] [Il est l'or Monseignor !](./OSINT/il_est_l_or_monseignor/) [968 points]
+- [X] [L'âme d'un poète et le coeur d'une femme [4/4]](./OSINT/ame_poete_coeur_dune_femme_3/) [919 points] ⭐️
+- [X] [Il est l'or Monseignor !](./OSINT/il_est_l_or_monseignor/) [968 points] ⭐️
 
 
 ## 🔧 [Rétro-ingénierie](ReverseEngineering) - *Reverse Engineering*
-- [X] [Intro - Le divin Crackme](./ReverseEngineering/le_divin_crackme/) [100 points]
-- [X] [L'inspiration en images](./ReverseEngineering/inspiration_en_images/) [863 points]
+- [ ] [Intro - Le divin Crackme](./ReverseEngineering/le_divin_crackme/) [100 points]
+- [ ] [L'inspiration en images](./ReverseEngineering/inspiration_en_images/) [863 points]
 
 
 ## 🌐 [Stéganographie](Stegano) - *Steganography*
@@ -94,16 +94,16 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié.
 - [X] [Un réveil difficile](./Hardware/reveil_difficile/) [757 points]
 
 ## 🌐 [Web](Web) 
-- [X] [Intro - Le loup et le renard](./Web/le_loup_et_le_renard/) [100 points]
-- [X] [L'Académie du Détail](./Web/l_académie_du_détail/) [200 points]
-- [X] [La Vie Française](./Web/la_vie_francaise/) [968 points]
-- [X] [Fuite en 1791](./Web/fuite_en_1791/) [880 points]
+- [ ] [Intro - Le loup et le renard](./Web/le_loup_et_le_renard/) [100 points]
+- [ ] [L'Académie du Détail](./Web/l_académie_du_détail/) [200 points]
+- [ ] [La Vie Française](./Web/la_vie_francaise/) [968 points]
+- [ ] [Fuite en 1791](./Web/fuite_en_1791/) [880 points]
 
 
 ## ⛓️ [Web3](Web3)
-- [X] [Intro - Art](./Web3/art/) [100 points]
-- [X] [L'Antiquaire, tête en l'air](./Web3/l_antiquaire/) [861 points]
-- [X] [La Folie du jeu : descente aux enfers](./Web3/descente_aux_enfers/) [960 points]
+- [ ] [Intro - Art](./Web3/art/) [100 points]
+- [ ] [L'Antiquaire, tête en l'air](./Web3/l_antiquaire/) [861 points]
+- [ ] [La Folie du jeu : descente aux enfers](./Web3/descente_aux_enfers/) [960 points]
 
 
 #### Enfin, j'ai consacré moins de temps sur ces dernières catégories, par manque de temps et/ou d'intérêt: 
@@ -113,7 +113,7 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié.
 - [X] [Intro - Le Sot](./Cloud/le_sot/) [100 points]
 
 ### 🧠 [Intelligence Artificielle](AI) - *Artificial Intelligence* (AI)
-- [X] [Intro - De la poésie ](./AI/poesie/) [100 points]
+- [ ] [Intro - De la poésie ](./AI/poesie/) [100 points]
 
 ### ⚙️ [Exploitation de binaires](BinaryExploit) - *Binary exploitation* (Pwn)
 - [X] [Intro - Je veux la lune ! ](./BinaryExploit/je_veux_la_lune/) [100 points]
