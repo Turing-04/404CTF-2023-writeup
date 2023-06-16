@@ -9,7 +9,7 @@ On en apprend un peu plus [ici](http://www.parisrevolutionnaire.com/spip.php?art
 
 On y découvre également que ses appartements de fonction se trouve au 3 rue de Sully. 
 
-Apparemment il existait une méthode plus simple en utilisant le site [what3words](https://what3words.com/fr/about) à partir des 3 mots en italique présents dans le texte (retracer, superbe et ignorer). On obtenir alors directement la position recherchée. 
+Apparemment il existait une méthode plus simple en utilisant le site [what3words](https://what3words.com/fr/about) à partir des 3 mots en italique présents dans le texte (retracer, superbe et ignorer). On peut ainsi obtenir directement la position recherchée. 
 
 <details>
 <summary>Voir le flag :</summary>

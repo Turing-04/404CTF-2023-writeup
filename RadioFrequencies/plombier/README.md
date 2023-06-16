@@ -8,7 +8,7 @@ Nous avons un fichier `.raw` de quasiment 5Go à notre disposition accompagné d
 
 Ayant l'habitude de faire des "expériences" avec mon HackRF, j'avais déjà entendu parler d'une technique avancée permettant grace aux ondes émises par un cable HDMI, d'afficher le contenu d'un écran (par *eavesdropping*). Ça faisait longtemps que je voulais essayer mais je n'avais jamais essayé faute de temps et croyant que c'était sans doute trop compliqué et réservé à des services de pointe en labo. 
 
-Concrètement [(source)](https://www.rtl-sdr.com/?s=tempestSDR): en intercéptant avec le HackRF One les ondes radios *garbages* émises par un cable HDMI vers 295kHz, celles ci peuvent être récuperées et grace à l'outil Tempest SDR, nous pouvons transformer ces ondes en affichage en temps réel.
+Concrètement [(source)](https://www.rtl-sdr.com/?s=tempestSDR): en intercéptant avec le HackRF One les ondes radios *garbages* émises par un cable HDMI à une fréquence bien spécifique, en générale entre 100 et 500Mhz, celles ci peuvent être récupérées et grâce à l'outil Tempest SDR, nous pouvons transformer ces ondes en affichage en temps réel.
 
 Ici, une fois que l'on a compris ce qu'il fallait faire, ce n'est plus très compliqué, il suffit de télécharger le fameux logiciel [Tempest SDR](https://github.com/martinmarinov/TempestSDR) et d'y importer notre fichier `.raw`.
 
@@ -25,7 +25,7 @@ On règle également les paramètres en utilisant les données indiquées par le
 
 
 
-Et là, miracle on obtient un flux vidéo dans lequel on vois que notre victime joue à tétris puis se balade sur un éditeur de texte avant de voir apparaître un QR-code :
+Et là, miracle on obtient un flux vidéo dans lequel on voit que notre victime joue à tétris puis se balade sur un éditeur de texte avant de voir apparaître un QR-code :
 
 <img src="screen_capture_word.png" width=500>
 

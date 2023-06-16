@@ -12,7 +12,7 @@ Il y'a quelque chose d'intriguant dans cette scène, on entend très distincteme
 
 <img src="./telephone_a_cadran.png" width=500>
 
-Un peu archaïque comme moyen de communication mais ça fait bien notre affaire cette histoire, car en analysant la signal audio on va pouvoir retrouver les numéros tapés. 
+Un peu archaïque comme moyen de communication mais ça fait bien notre affaire cette histoire, car en analysant la signal audio on va pouvoir retrouver les numéros composés. 
 
 Étant un chouïa jeune pour connaître précisement le fonctionnement de ce genre d'appareil, un tour sur [Wikipédia](https://fr.wikipedia.org/wiki/Cadran_téléphonique) s'impose. 
 
@@ -27,7 +27,7 @@ On identifie assez clairement les 10 numéros, ce qui correspond bien au format 
 
 On peut alors émettre l'hypothèse (hautement probable) que le premier numéro est un 0. On suppose également un modèlelinéaire, c’est à dire que le temps pris par le cadran pour revenir au point de départ est proportionel à sa distance à l'origine. 
 
-Avec un peu d'arithmétique élémentaire et armé d'une règle et de patience on peut alors commencer à décchiffrer notre séquence. 
+Avec un peu d'arithmétique élémentaire et armé d'une règle et de patience on peut alors commencer à déchiffrer notre séquence. 
 
 Je vous épargne les fastidieux calculs et les appels inopportuns. (en masqué bien entendu, on est pas fou)
 
