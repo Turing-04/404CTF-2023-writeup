@@ -26,10 +26,10 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU le
 ##  🔎 [Analyse forensique](Forensics) - *Forensic analysis*
 
 - [X] [Intro - pêche au livre](./Forensics/peche_au_livre/) [100 points]
-- [ ] [Le mystère du roman d'amour](./Forensics/le_mystere_du_roman_d_amour/) [200 points]
-- [ ] [Les mystères du cluster de la comtesse de Ségur](./Forensics/les_mysteres_du_cluster_de_la_comtesse_de_segur/) [385 points]
-- [ ] [Lettres volatiles](./Forensics/lettres_volatiles/) [757 points]
-- [ ] [Note de bas de page](./Forensics/note_de_bas_de_page/) [954 points] ⭐️
+- [X] [Le mystère du roman d'amour](./Forensics/le_mystere_du_roman_d_amour/) [200 points]
+- [X] [Les mystères du cluster de la comtesse de Ségur](./Forensics/les_mysteres_du_cluster_de_la_comtesse_de_segur/) [385 points]
+- [X] [Lettres volatiles](./Forensics/lettres_volatiles/) [757 points]
+- [X] [Note de bas de page](./Forensics/note_de_bas_de_page/) [954 points] ⭐️
   
 
 
