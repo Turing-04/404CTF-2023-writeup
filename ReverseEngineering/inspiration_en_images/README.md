@@ -10,9 +10,9 @@ On a un fichier ELF executable [à notre disposition](./vue_sur_un_etrange_table
 > 
 > openssl enc -aes-256-cbc -md sha512 -pbkdf2 -iter 250000 -nosalt -in message.txt -out chiffré.txt
 
-On commence par décompiler le fichier exécutable grâce à BinaryNinja afin de chercher des informations dans [le fichier C](./binary_ninja_decompilated.c) que l'on obtient.
+On commence par décompiler le fichier exécutable grâce à BinaryNinja afin de chercher des informations dans le fichier C que l'on obtient.
 
-On regarde très vite ce qui se passe dans le main mais on ne trouve rien de bien probant le fichier fait plus de 3000 lignes et n'est pas très lisible. On pourrait creuser un peu plus jusqu'à trouver trouver notre bonheur mais on va plutot utiliser [Ghidra](https://ghidra-sre.org) pour voir si l'on obtient quelque chose de plus clair. 
+On regarde très vite ce qui se passe dans le main mais on ne trouve rien de bien probant le fichier fait plus de 15000 lignes et n'est pas très lisible. On pourrait creuser un peu plus jusqu'à trouver notre bonheur mais on va plutot utiliser [Ghidra](https://ghidra-sre.org) pour voir si l'on obtient quelque chose de plus clair. 
 
 Et en effet c'est déjà beaucoup mieux. En analysant les différentes fonctions, on s'intéresse très vite au `main` dans laquelle on découvre un appel à `glad_glClearColor` qui prend 4 arguments, il pourrait bien s'agir de nos fameuses valeurs RGBA:
 
