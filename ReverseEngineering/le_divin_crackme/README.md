@@ -20,7 +20,7 @@ Et en bas on découvre également que le compilateur `GCC` a été utilié sur u
 
 Il nous reste plus qu'à trouver la fameuse fonction et le mot de passe. 
 
-On utilise [ce site](./divin-crackme) pour décompiler notre binaire et obtenir [ce fichier]() en C. 
+On utilise [ce site](https://dogbolt.org) pour décompiler notre binaire et obtenir [ce fichier](./decompiled_divin.c) en C. 
 
 Il y'a un peu de junk dans ce fichier, mais on découvre rapidement vers la ligne 130 que la function `strncmp` est utilisée pour vérifier si l'entrée utilisateur est correcte en la comparant à des séquence de caractères bien précise (qui sont d'ailleurs celles que l'on avait trouvé suspectes en utilisant strings dans le shell). 
 
