@@ -101,8 +101,8 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU le
 
 
 ## ⛓️ [Web3](Web3)
-- [ ] [Intro - Art](./Web3/art/) [100 points]
-- [ ] [L'Antiquaire, tête en l'air](./Web3/l_antiquaire/) [861 points]
+- [X] [Intro - Art](./Web3/art/) [100 points]
+- [X] [L'Antiquaire, tête en l'air](./Web3/l_antiquaire/) [861 points]
 - [ ] [La Folie du jeu : descente aux enfers](./Web3/descente_aux_enfers/) [960 points]
 
 
