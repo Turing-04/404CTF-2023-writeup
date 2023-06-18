@@ -113,7 +113,7 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU le
 - [X] [Intro - Le Sot](./Cloud/le_sot/) [100 points]
 
 ### 🧠 [Intelligence Artificielle](AI) - *Artificial Intelligence* (AI)
-- [ ] [Intro - De la poésie ](./AI/poesie/) [100 points]
+- [X] [Intro - De la poésie ](./AI/poesie/) [100 points]
 
 ### ⚙️ [Exploitation de binaires](BinaryExploit) - *Binary exploitation* (Pwn)
 - [X] [Intro - Je veux la lune ! ](./BinaryExploit/je_veux_la_lune/) [100 points]
