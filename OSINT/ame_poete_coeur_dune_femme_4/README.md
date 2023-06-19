@@ -9,7 +9,7 @@ Pour commencer, il faut taper `le_petit_salon` pour obtenir l'accès à un nouve
 Se présente alors une nouvelle énigme:
 > Bonjour , savez vous en quelle année un promeneur inoccupé qui, sortant du jardin des Tuileries, se serait dirigé sous les arcades de la rue de Rivoli, aurait pu apercevoir sous la porte cochère d'un des plus beaux hôtels du quartier, un grand vieillard à la chevelure et à la moustache blanches ?
 
-Connaissant par coeur l'oeuvre de Louise Colet, on trouve facilement la réponse dans "Un drame dans la rue de Rivoli". C'était en `1885` bien entendu. (Pour les plus incultes, une rapide recherche Google faisait également l'affaire). 
+Connaissant par coeur l'oeuvre de Louise Colet, on trouve facilement la réponse dans "Un drame dans la rue de Rivoli". C'était en `1835` bien entendu. (Pour les plus incultes, une rapide recherche Google faisait également l'affaire). 
 
 On se retrouve maintenant dans le boudoire où un nouveau problème se présente:
 > Complétez la suite du poème :
