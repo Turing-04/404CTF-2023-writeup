@@ -13,7 +13,7 @@ On part d'un énigmatique fichier [backup.pst](./backup.pst). On run donc la com
 
 Il s'agit d'une sauvegarde Outlook. Il peut être ouvert directement avec Outlook, ou avec pffexport (paquet pff-tools sur Ubuntu). 
 
-Ravi de faire ce challenge en quelques secondes en récupérant le script que j'avais adapté depuis celui de acropalypse pour qu'il fonctionne non plus pour du RGB mais pour du RGBA qui est utilisé ici. Pas le temps de me saouler avec ces bêtises néanmoins, j'utilise donc cet [outil en ligne](https://goldfynch.com/pst-viewer/) pour analyser le contenu du fichier. 
+Pas le temps de me saouler avec ces bêtises néanmoins, j'utilise donc cet [outil en ligne](https://goldfynch.com/pst-viewer/) pour analyser le contenu du fichier. 
 
 <img src="./boite_mail_en_ligne.png" width=500>
 
