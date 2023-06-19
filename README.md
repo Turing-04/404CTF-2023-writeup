@@ -77,8 +77,8 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU le
 
 
 ## 🔧 [Rétro-ingénierie](ReverseEngineering) - *Reverse Engineering*
-- [ ] [Intro - Le divin Crackme](./ReverseEngineering/le_divin_crackme/) [100 points]
-- [ ] [L'inspiration en images](./ReverseEngineering/inspiration_en_images/) [863 points]
+- [X] [Intro - Le divin Crackme](./ReverseEngineering/le_divin_crackme/) [100 points]
+- [X] [L'inspiration en images](./ReverseEngineering/inspiration_en_images/) [863 points]
 
 
 ## 🌐 [Stéganographie](Stegano) - *Steganography*
@@ -94,10 +94,10 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU le
 - [X] [Un réveil difficile](./Hardware/reveil_difficile/) [757 points]
 
 ## 🌐 [Web](Web) 
-- [ ] [Intro - Le loup et le renard](./Web/le_loup_et_le_renard/) [100 points]
-- [ ] [L'Académie du Détail](./Web/l_académie_du_détail/) [200 points]
-- [ ] [La Vie Française](./Web/la_vie_francaise/) [968 points]
-- [ ] [Fuite en 1791](./Web/fuite_en_1791/) [880 points]
+- [X] [Intro - Le loup et le renard](./Web/le_loup_et_le_renard/) [100 points]
+- [X] [L'Académie du Détail](./Web/l_académie_du_détail/) [200 points]
+- [X] [La Vie Française](./Web/la_vie_francaise/) [968 points]
+- [X] [Fuite en 1791](./Web/fuite_en_1791/) [880 points]
 
 
 ## ⛓️ [Web3](Web3)
