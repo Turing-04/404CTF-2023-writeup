@@ -72,7 +72,7 @@ Les challenges avec une ⭐️ sont ceux que j'ai le plus apprécié / les WU le
 - [X] [L'âme d'un poète et le coeur d'une femme [1/4]](./OSINT/ame_poete_coeur_dune_femme_1/) [485 points]
 - [X] [L'âme d'un poète et le coeur d'une femme [2/4]](./OSINT/ame_poete_coeur_dune_femme_2/) [673 points]
 - [X] [L'âme d'un poète et le coeur d'une femme [3/4]](./OSINT/ame_poete_coeur_dune_femme_3/) [903 points]
-- [X] [L'âme d'un poète et le coeur d'une femme [4/4]](./OSINT/ame_poete_coeur_dune_femme_3/) [919 points] ⭐️
+- [X] [L'âme d'un poète et le coeur d'une femme [4/4]](./OSINT/ame_poete_coeur_dune_femme_4/) [919 points] ⭐️
 - [X] [Il est l'or Monseignor !](./OSINT/il_est_l_or_monseignor/) [968 points] ⭐️
 
 
